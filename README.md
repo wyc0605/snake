@@ -1,2 +1,2 @@
-# snake
-a game run on ubuntu
+# SNAKE
+a game run on ubuntu,just it.
